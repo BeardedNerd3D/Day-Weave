@@ -140,5 +140,5 @@ See [Privacy.md](Privacy.md) for the Day Weave Privacy Policy.
 
 ## Contact
 
-Use the support contact listed for Day Weave on the App Store or the support channel provided by the official Day Weave GitHub Pages site.
+Use the support contact listed for Day Weave on the App Store or bu email at 69834164+BeardedNerd3D@users.noreply.github.com.
 
