@@ -76,9 +76,9 @@ Some features may depend on device capabilities, operating-system version, Apple
 
 ## Privacy
 
-See [Privacy.md](Privacy.md).
+See [Privacy](https://beardednerd3d.github.io/Day-Weave/PRIVACY).
 
 ## Support
 
-See [Support.md](Support.md).
+See [Support](https://beardednerd3d.github.io/Day-Weave/SUPPORT).
 
