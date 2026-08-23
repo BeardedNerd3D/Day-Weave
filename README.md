@@ -144,15 +144,15 @@ Where supported by Apple, the Unlimited purchase may support Family Sharing.
 
 ## Privacy
 
-See [Privacy.md](Privacy.md).
+See [Privacy](https://beardednerd3d.github.io/Day-Weave/PRIVACY).
 
 ## Support
 
-See [Support.md](Support.md).
+See [Support](https://beardednerd3d.github.io/Day-Weave/SUPPORT).
 
 ## Notices
 
-See [Notice.md](Notice.md).
+See [Notice](https://beardednerd3d.github.io/Day-Weave/NOTICE).
 
 ## Platform
 
