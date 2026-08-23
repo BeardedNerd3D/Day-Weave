@@ -136,7 +136,7 @@ Please avoid including sensitive personal task content unless necessary.
 
 ## Privacy
 
-See [Privacy.md](Privacy.md) for the Day Weave Privacy Policy.
+See [Privacy](https://beardednerd3d.github.io/Day-Weave/PRIVACY) for the Day Weave Privacy Policy.
 
 ## Contact
 
