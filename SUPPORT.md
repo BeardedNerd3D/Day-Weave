@@ -140,5 +140,5 @@ See [Privacy](https://beardednerd3d.github.io/Day-Weave/PRIVACY) for the Day Wea
 
 ## Contact
 
-Use the support contact listed for Day Weave on the App Store or bu email at 69834164+BeardedNerd3D@users.noreply.github.com.
+Use the support contact listed for Day Weave on the App Store or by email at 69834164+BeardedNerd3D@users.noreply.github.com.
 
